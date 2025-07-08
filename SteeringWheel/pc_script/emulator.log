@@ -1,0 +1,401 @@
+2025-07-08 17:38:25,682 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:38:25,691 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:38:25,691 - INFO - pymem initialized successfully
+2025-07-08 17:38:25,692 - INFO - Game module accessed successfully
+2025-07-08 17:38:25,693 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:38:26,685 - INFO - Connected by ('192.168.1.56', 57170)
+2025-07-08 17:38:26,686 - WARNING - Received incomplete steering data, length=1
+2025-07-08 17:38:26,743 - INFO - Received NEUTRAL command
+2025-07-08 17:38:26,792 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:26,839 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,001 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,058 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,102 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,151 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,199 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,308 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,410 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,462 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,507 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,556 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,604 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,722 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,772 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,822 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:27,922 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,024 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,071 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,120 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,229 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,330 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,433 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,536 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,593 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,743 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,844 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:28,896 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,048 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,097 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,144 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,191 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,238 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,356 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,404 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,454 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,559 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,607 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,656 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,768 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,825 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,872 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,920 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:29,967 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,014 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,063 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,176 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,279 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,379 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,435 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,484 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,584 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,640 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,792 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,841 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,886 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:30,933 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,097 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,152 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,302 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,360 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,506 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,557 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,714 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,812 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,867 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,914 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:31,962 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,121 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,223 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,277 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,427 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,480 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,638 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,739 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,788 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,941 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:32,990 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,041 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,146 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,192 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,241 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,286 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,335 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 0.0 - GetLastError: 998
+2025-07-08 17:38:33,384 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,451 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,553 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,656 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,706 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,754 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,801 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,850 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:33,961 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,064 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,109 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,156 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,206 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,251 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,299 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,373 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,425 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,577 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,626 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,784 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,893 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,948 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:34,998 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,091 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,146 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,296 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,397 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,449 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,498 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,602 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,652 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,806 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:35,856 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,012 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,061 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,217 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,319 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,422 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,480 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,629 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,682 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,831 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:36,886 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,038 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,088 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,136 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,240 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,291 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,447 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,548 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,602 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,753 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,803 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:37,962 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,060 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,164 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,264 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,318 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,366 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,469 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,521 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,567 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,613 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,661 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,709 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,755 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,803 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,882 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:38,984 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,036 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,084 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,187 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,241 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,392 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,442 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,488 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,535 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,699 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,753 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,799 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,845 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:39,893 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,009 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,065 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,113 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,294 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,349 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,416 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,469 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,620 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,671 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,719 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,824 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:40,875 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:41,035 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:41,132 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:41,186 - ERROR - Error writing steering value: Could not write memory at: 140699825886856, length: 7.89211295107737e-41 - GetLastError: 998
+2025-07-08 17:38:41,337 - ERROR - Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-08 17:39:26,755 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:39:26,767 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:39:26,767 - INFO - pymem initialized successfully
+2025-07-08 17:39:26,767 - INFO - Game module accessed successfully
+2025-07-08 17:39:26,768 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:39:35,337 - INFO - Connected by ('192.168.1.56', 43208)
+2025-07-08 17:39:35,337 - WARNING - Received incomplete steering data, length=1
+2025-07-08 17:39:35,391 - INFO - Received NEUTRAL command
+2025-07-08 17:39:35,437 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,484 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,530 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,577 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,623 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,668 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,715 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,765 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,812 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,915 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:35,962 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,009 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,056 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,228 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,325 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,429 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,532 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,585 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,634 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,738 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,791 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:36,951 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,043 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,148 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,250 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,299 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,454 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,556 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,609 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,660 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,760 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,814 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:37,965 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,013 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,061 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,169 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,219 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,376 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,434 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,581 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,635 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,682 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,730 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,776 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,823 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:38,991 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,040 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,196 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,300 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,352 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,507 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,554 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,622 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,706 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,758 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,911 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:39,959 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,008 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,117 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,219 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,283 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,425 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,473 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,520 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,566 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,614 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,665 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,834 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,935 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:40,990 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,037 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,141 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,191 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,239 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,284 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,331 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,448 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,500 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,549 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,651 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,703 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,858 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,904 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,952 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:41,999 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,047 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,094 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,141 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,186 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,236 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,280 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,332 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,470 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,573 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,625 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,674 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,781 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,830 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:42,984 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,033 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,189 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,248 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,294 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,341 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,394 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,498 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,545 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,592 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,703 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,803 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,856 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:43,904 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,037 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,090 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,213 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,316 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,365 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,417 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,523 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,625 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,676 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,724 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,829 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:44,881 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,031 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,083 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,214 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,343 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,396 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,444 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,544 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,597 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,748 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,798 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:45,954 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,056 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,107 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,263 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,309 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,465 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,512 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,670 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,772 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,823 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:46,978 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,026 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,182 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,284 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,338 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,495 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,594 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,648 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,696 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,797 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,851 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,899 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:47,947 - WARNING - Invalid memory address: 0x7FF73B245678
+2025-07-08 17:39:48,108 - INFO - Script interrupted by user
+2025-07-08 17:39:48,110 - INFO - Script terminated, all keys released
+2025-07-08 17:43:23,335 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:43:23,346 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:43:23,346 - INFO - pymem initialized successfully
+2025-07-08 17:43:23,347 - INFO - Game module accessed successfully
+2025-07-08 17:43:23,351 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:43:31,021 - INFO - Connected by ('192.168.1.56', 33800)
+2025-07-08 17:43:31,021 - WARNING - Received incomplete steering data, length=1
+2025-07-08 17:43:31,073 - INFO - Received NEUTRAL command
+2025-07-08 17:44:05,883 - INFO - Connection closed by client
+2025-07-08 17:46:16,033 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:46:16,047 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:46:16,047 - INFO - pymem initialized successfully
+2025-07-08 17:46:16,048 - INFO - Game module accessed successfully
+2025-07-08 17:46:16,049 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:46:17,903 - INFO - Connected by ('192.168.1.56', 38024)
+2025-07-08 17:46:17,903 - WARNING - Received incomplete data, length=1
+2025-07-08 17:46:18,053 - INFO - Received NEUTRAL command
+2025-07-08 17:46:22,657 - INFO - Received NEUTRAL command
+2025-07-08 17:47:00,699 - ERROR - Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-08 17:48:52,931 - INFO - Connected by ('192.168.1.56', 45070)
+2025-07-08 17:48:52,931 - WARNING - Received incomplete data, length=1
+2025-07-08 17:48:52,988 - INFO - Received NEUTRAL command
+2025-07-08 17:49:04,573 - INFO - Received NEUTRAL command
+2025-07-08 17:49:05,422 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:49:05,432 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:49:05,432 - INFO - pymem initialized successfully
+2025-07-08 17:49:05,433 - INFO - Game module accessed successfully
+2025-07-08 17:49:05,435 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:49:28,404 - ERROR - Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-08 17:49:28,405 - INFO - Connected by ('192.168.1.56', 45084)
+2025-07-08 17:49:28,405 - ERROR - Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-08 17:53:17,726 - INFO - Starting Xbox 360 controller emulator
+2025-07-08 17:53:17,738 - DEBUG - Process 19200 is being debugged
+2025-07-08 17:53:17,738 - INFO - pymem initialized successfully
+2025-07-08 17:53:17,739 - INFO - Game module accessed successfully
+2025-07-08 17:53:17,740 - INFO - Socket bound to 0.0.0.0:65433 and listening
+2025-07-08 17:53:30,984 - INFO - Connected by ('192.168.1.56', 44740)
+2025-07-08 17:53:30,988 - WARNING - Received incomplete data, length=1
+2025-07-08 17:53:30,999 - INFO - Received NEUTRAL command
+2025-07-08 17:53:31,011 - WARNING - Received incomplete data, length=1
+2025-07-08 17:53:31,060 - INFO - Received NEUTRAL command
+2025-07-08 17:53:55,285 - INFO - Received NEUTRAL command
+2025-07-08 17:54:09,719 - INFO - Received NEUTRAL command
+2025-07-08 17:54:17,860 - ERROR - Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host

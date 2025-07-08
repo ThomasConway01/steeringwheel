@@ -1,0 +1,9 @@
+{
+    "host": "0.0.0.0",
+    "port": 65433,
+    "process_name": "ForzaHorizon5.exe",
+    "steering_deadzone": 0.2,
+    "steering_sensitivity": 2.0,
+    "reconnect_timeout": 5.0,
+    "max_reconnect_attempts": 3
+}
